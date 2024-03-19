@@ -1,4 +1,4 @@
-# Telegram Bot
+# Crypto - Telegram Bot 
 
 
 ## Project setup

@@ -10,6 +10,9 @@ ___
 ```
 /start
 ```
+<details>
+<summary>點擊查看詳細資訊</summary>
+</details>
 ```
 /price
 ```

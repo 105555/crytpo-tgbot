@@ -12,9 +12,9 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
-![Image text](https://github.com/105555/cryptoBot/blob/94ac750d6cc05d499dcf4a0ef95368bc53f24cab/img/%3Ak.png)
+![Image text](cryptoBot/img/:k.png)
 </details>
-![Image text](https://github.com/105555/cryptoBot/blob/94ac750d6cc05d499dcf4a0ef95368bc53f24cab/img/%3Ak.png)
+
 ```
 /price
 ```

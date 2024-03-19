@@ -36,7 +36,7 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
-![:k]([https://github.com/105555/cryptoBot/blob/main/img/:k.png?raw=true](https://github.com/105555/cryptoBot/blob/main/img/%3Ak.png))
+![:k](https://github.com/105555/cryptoBot/blob/main/img/%3Ak.png)
 </details>
 
 ```

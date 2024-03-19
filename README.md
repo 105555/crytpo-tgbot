@@ -12,6 +12,8 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
+  ![image](:price.png)
+
 </details>
 
 ```

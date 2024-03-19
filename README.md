@@ -14,6 +14,7 @@ ___
 <summary>詳細資訊</summary>
 ` 概覽整體功能 `
 </details>
+`概覽整體功能`
 
 ```
 /price

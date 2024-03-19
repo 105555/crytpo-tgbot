@@ -12,7 +12,7 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
-  ![image]([img/:k.png](https://github.com/105555/cryptoBot/blob/94ac750d6cc05d499dcf4a0ef95368bc53f24cab/img/%3Ak.png))
+  ![image](https://github.com/105555/cryptoBot/blob/94ac750d6cc05d499dcf4a0ef95368bc53f24cab/img/%3Ak.png)
 </details>
 
 ```

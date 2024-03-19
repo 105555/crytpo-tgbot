@@ -1,45 +1,36 @@
 Crypto - Telegram Bot 
 ===
 
-## Project setup
+Project setup
+---
 ```
 npm install
 ```
-___
-## 指令
+
+指令
+---
+##### 1.概覽整體功能
 ```
 /start
 ```
-<details>
-<summary>詳細資訊</summary>
-` 概覽整體功能 `
-</details>
 
+##### 2.查詢價格 ＆ 市值
 ```
 /price
 ```
-<details>
-<summary>詳細資訊</summary>
-</details>
 
 ```
 /price top
 ```
-<details>
-<summary>詳細資訊</summary>
-</details>
 
+##### 3. 查詢k線圖 xxx為要搜尋幣種
 ```
 /k XXX
 ```
-<details>
-<summary>詳細資訊</summary>
-</details>
 
+##### 4. 查詢分類板塊幣種
 ```
 /plate
 ```
-<details>
-<summary>詳細資訊</summary>
-</details>
+
 

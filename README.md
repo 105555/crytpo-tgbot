@@ -12,7 +12,7 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
-![:start] (https://github.com/105555/cryptoBot/assets/110403362/f4e59a93-1186-43cb-a768-a210f87f8770)
+! [:start] (https://github.com/105555/cryptoBot/assets/110403362/f4e59a93-1186-43cb-a768-a210f87f8770)
 </details>
 
 ```
@@ -20,7 +20,7 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
-![:price] (https://github.com/105555/cryptoBot/assets/110403362/dabcd3e1-2625-4a88-992d-ed27de4947a0)
+! [:price] (https://github.com/105555/cryptoBot/assets/110403362/dabcd3e1-2625-4a88-992d-ed27de4947a0)
 </details>
 
 ```

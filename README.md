@@ -11,15 +11,27 @@ ___
 /start
 ```
 <details>
-<summary>點擊查看詳細資訊</summary>
+<summary>詳細資訊</summary>
 </details>
+
 ```
 /price
 ```
+<details>
+<summary>詳細資訊</summary>
+</details>
+
 ```
 /k XXX
 ```
+<details>
+<summary>詳細資訊</summary>
+</details>
+
 ```
 /plate
 ```
+<details>
+<summary>詳細資訊</summary>
+</details>
 

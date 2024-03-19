@@ -12,7 +12,7 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
---- 概覽整體功能
+`概覽整體功能`
 </details>
 
 ```

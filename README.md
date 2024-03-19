@@ -12,7 +12,7 @@ ___
 ```
 <details>
 <summary>詳細資訊</summary>
-![Image text](cryptoBot/img/:k.png)
+![:start](https://github.com/105555/cryptoBot/assets/110403362/f4e59a93-1186-43cb-a768-a210f87f8770)
 </details>
 
 ```

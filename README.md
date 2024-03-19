@@ -22,6 +22,13 @@ ___
 </details>
 
 ```
+/price top
+```
+<details>
+<summary>詳細資訊</summary>
+</details>
+
+```
 /k XXX
 ```
 <details>

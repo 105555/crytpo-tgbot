@@ -15,14 +15,14 @@ npm i
 ---
 
 ## 專案功能概述
-### 1. 啟用機器人
+#### 1. 啟用機器人
 ```
 /start
 ```
 
 ![/start](assets/image5.png)
 
-### 2. 查詢價格 ＆ 市值
+#### 2. 查詢價格 ＆ 市值
 ```
 /price
 ```
@@ -33,13 +33,13 @@ npm i
 ```
 ![/price](assets/image3.png)
 
-### 3. 查詢k線圖 xxx為要搜尋幣種
+#### 3. 查詢k線圖 xxx為要搜尋幣種
 ```
 /k XXX
 ```
 ![/price](assets/image1.png)
 
-### 4. 查詢分類板塊幣種
+#### 4. 查詢分類板塊幣種
 ```
 /plate
 ```

@@ -6,7 +6,7 @@
   - src # 靜態資源放置處
     - bot # 機器人指令放置處
     - lib # 靜態資源
-
+- index.js 指令入口檔
 ## 專案建置
 ---
 ```
@@ -45,4 +45,8 @@ npm i
 ```
 ![/price](assets/image3.png)
 
-### 專案呈現 : 
+## 指令
+輸入指令即可啟動Bot
+```
+node index.js
+```

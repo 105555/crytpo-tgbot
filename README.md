@@ -1,5 +1,5 @@
 # 加密貨幣簡易查詢機器人
-![Static Badge](https://img.shields.io/badge/Node-v16.20.2_up-blue) 
+![Static Badge](https://img.shields.io/badge/Node-v18.20.2_up-blue) 
 
 ## 資料夾結構
  - assets # 圖片放置處

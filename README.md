@@ -43,7 +43,7 @@ npm i
 ```
 /plate
 ```
-![/price](assets/image3.png)
+![/price](assets/image2.png)
 
 ## 指令
 輸入指令即可啟動Bot

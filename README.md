@@ -13,6 +13,14 @@
 npm i
 ```
 ---
+## 配置
+-  BotFather 設定以下指令 
+    - start
+    - price
+    - plate
+    - k
+-  複製 bot.example 成 bot.js
+-  填入 apiKey
 
 ## 專案功能概述
 #### 1. 啟用機器人

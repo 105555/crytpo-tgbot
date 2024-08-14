@@ -2,7 +2,7 @@
 
 node_modules
 example.png
-
+/src/bot/bot.js
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
